@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+.env
+
+# Flutter
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Docker
+/node_modules
+/dist
+/build
+*.log
+docker-compose.override.yml
